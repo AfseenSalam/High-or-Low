@@ -1,0 +1,14 @@
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\bin\Debug\net8.0\HighOrLow.exe
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\bin\Debug\net8.0\HighOrLow.deps.json
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\bin\Debug\net8.0\HighOrLow.runtimeconfig.json
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\bin\Debug\net8.0\HighOrLow.dll
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\bin\Debug\net8.0\HighOrLow.pdb
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.AssemblyInfoInputs.cache
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.AssemblyInfo.cs
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.csproj.CoreCompileInputs.cache
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.dll
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\refint\HighOrLow.dll
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.pdb
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\HighOrLow.genruntimeconfig.cache
+C:\Users\sm2239\source\repos\HighOrLow\HighOrLow\obj\Debug\net8.0\ref\HighOrLow.dll
